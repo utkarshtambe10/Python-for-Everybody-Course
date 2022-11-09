@@ -1,4 +1,4 @@
-# Python for Everybody by University of Michigan.
+# Python-for-Everybody-Course 👨‍💻💻🐍
 This is a repository for coursera specialization. Python for Everybody.
 These repository contains all the answers/solutions to the assignmnets asked in every week or module of the course. 
 The link to course: <a href="https://www.coursera.org/specializations/python" target="_blank">Python For Everybody.</a> 
